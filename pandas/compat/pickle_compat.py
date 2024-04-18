@@ -1,5 +1,5 @@
 """
-Support pre-0.12 series pickle compatibility.
+Support pre-0.12 series pickle compatibility. 
 """
 from __future__ import annotations
 
